@@ -73,7 +73,7 @@ You will enter Nano editor interface.
 
 ![Naming the File](./img/10.%20Naming%20the%20File.png) 
 
-![Editing, Saving, and Saving](./img/11.%20Editing,%20Saving,%20%20and%20Exiting.png)
+![Editing, Saving, and Saving](./img/11.%20Editing,%20Saving,%20and%20Exiting.png)
 
 - **Opening an Existing File:** I Open an empty existing file and write into it and save the content of the file. 
 
